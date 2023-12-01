@@ -11,6 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+DrRacket es una organización de desarrollo de software creada por estudiantes de la Universidad de O'Higgins destinada a la realización de proyectos para la Universidad. 
+
+### Proyectos
+
+* Plataforma para la resolución de problema de optimización Academic Course Scheduling para mejorar la productividad de la escuela de Ingeniería en la Universidad de O'Higgins en la organización de las cátedras según las preferencias de horario de los profesores que las dicten.
 
 ### FullStack Developers
 
