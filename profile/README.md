@@ -27,4 +27,4 @@ DrRacket es una organización de desarrollo de software creada por estudiantes d
 
 [Cristóbal Lagos](https://github.com/X4ero26)
 
-[Bastián Rubio](https://github.com/Zb4sty)
+[Bastián Rubio](https://github.com/brubiom)
